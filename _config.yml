@@ -3,7 +3,7 @@ permalink:           pretty
 title:               'Компьютерные технологии в механике'
 homepage_title:      1 семестр
 url:                 https://PPPmmm131313.github.io/
-baseurl:             '/doc'
+baseurl:             ''
 
 src:                 "."
 default_theme:       "rust"
