@@ -2,7 +2,7 @@ permalink:           pretty
 # Setup
 title:               'Компьютерные технологии в механике'
 homepage_title:      1 семестр
-url:                 https://PPPmmm131313.github.io/test1/
+url:                 https://PPPmmm131313.github.io/doc/
 baseurl:             '/test1'
 
 src:                 "."
