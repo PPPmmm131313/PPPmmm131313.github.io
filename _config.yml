@@ -2,7 +2,7 @@ permalink:           pretty
 # Setup
 title:               'Компьютерные технологии в механике'
 homepage_title:      как пользоваться страничкой
-url:                 https://pppmmm131313.github.io/
+url:                 https://python.github.io/
 baseurl:             ''
 
 src:                 "."
