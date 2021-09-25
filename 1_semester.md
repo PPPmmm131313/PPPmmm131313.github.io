@@ -31,7 +31,7 @@ title: 1 семестр
   <tr>
     <td class="tg-0pky">24/09<br><br>Типы и структуры данных</td>
     <td class="tg-0pky"><a href="https://drive.google.com/file/d/1l1yatCegm1ADlj5raG9ejs23CXddvQjw/view?usp=sharing" target="_blank" rel="noopener noreferrer">🛑 Скринкаст по запуску jupyter lab в другой директории</a><br></td>
-    <td class="tg-c3ow"><a href="https://github.com/PPPmmm131313/PPPmmm131313.github.io/blob/main/jupyter_lab/24_09.ipynb" target="_blank" rel="noopener noreferrer">💻 Типы и структуры данных</a><br></td>
+    <td class="tg-c3ow"><a href="https://drive.google.com/file/d/17bmZYNgIUVDP-6O55xcvfSRv5qXloYUw/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 Типы и структуры данных</a><br></td>
     <td class="tg-c3ow">🎓Запустить jypyter lab (то, что было на паре)</td>
     <td class="tg-c3ow">1.10</td>
   </tr> 
