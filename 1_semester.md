@@ -6,10 +6,10 @@ title: 1 семестр
 
 <table class="tg" style="undefined;table-layout: fixed; width: 753px">
 <colgroup>
-<col style="width: 232px">
+<col style="width: 235px">
 <col style="width: 230px">
-<col style="width: 106px">
 <col style="width: 185px">
+<col style="width: 170px">
 <col style="width: 185px">
 </colgroup>
 <thead>
