@@ -29,7 +29,7 @@ title: 1 семестр
     <td class="tg-c3ow">24.09</td>
   </tr>
   <tr>
-    <td class="tg-0pky">24/09<br><br>Типы и структуры данных</td>
+    <td class="tg-0pky">24.09<br><br>Типы и структуры данных</td>
     <td class="tg-0pky"><a href="https://drive.google.com/file/d/1l1yatCegm1ADlj5raG9ejs23CXddvQjw/view?usp=sharing" target="_blank" rel="noopener noreferrer">🛑 Скринкаст по запуску jupyter lab в другой директории</a><br></td>
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/17bmZYNgIUVDP-6O55xcvfSRv5qXloYUw/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 Типы и структуры данных</a><br></td>
     <td class="tg-c3ow">🎓Запустить jypyter lab (то, что было на паре)</td>
