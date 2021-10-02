@@ -35,6 +35,5 @@ title: 1 семестр
     <td class="tg-c3ow">🎓Запустить jypyter lab (то, что было на паре)</td>
     <td class="tg-c3ow">1.10</td>
   </tr>  
-    
 </tbody>
 </table>
