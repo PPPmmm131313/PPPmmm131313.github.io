@@ -27,7 +27,6 @@ title: 1 семестр
     <td class="tg-0pky">17/09<br><br>Установка CPython, PyСharm,<br>настройка среды</td>
     <td class="tg-0pky">17/09<br><br>Установка CPython, PyСharm,<br>настройка среды</td>
     <td class="tg-0pky">17/09<br><br>Установка CPython, PyСharm,<br>настройка среды</td>
-    
   </tr>
 </tbody>
 </table>
