@@ -10,6 +10,7 @@ title: 1 семестр
 <col style="width: 230px">
 <col style="width: 106px">
 <col style="width: 185px">
+<col style="width: 185px">
 </colgroup>
 <thead>
   <tr>
