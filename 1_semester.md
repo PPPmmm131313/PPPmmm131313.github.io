@@ -42,6 +42,14 @@ title: 1 семестр
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1rAD8FSdgrhg4Guphh868IQ4qYrxiJSsl/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 Кратко типы и структуры данных (+print) </a><br><a href="https://drive.google.com/file/d/14Yi_FpdRaDkzDGsYe9azAfM30MmVoqmS/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 Условные опреаторы и циклы </a><br><a href="https://drive.google.com/file/d/1l7o41Sat3dzIXS5chQWRAordrnv469kG/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 Функции </a><br></td>
     <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1HKzEGk2s04DvjGmDQENDccgqbR08-hqu/view?usp=sharing" target="_blank" rel="noopener noreferrer">🎓выполнить дз из jupyter lab </a></td>
     <td class="tg-c3ow">8.10</td>
-</tr>  
+</tr> 
+  https://drive.google.com/file/d/1beQr-xefHC3datIrzsyKi4MTXILvLyDT/view?usp=sharing
+  https://vk.com/away.php?to=https%3A%2F%2Freplit.com%2Fjoin%2Fsivinwufyq-mikhailpolinov&cc_key=
+  
+  <td class="tg-0pky">1.10<br><br>Аргументы функций и lambda-функции</td>
+  <td class="tg-0pky"><a href="https://cs.stanford.edu/people/nick/py/python-map-lambda.html" target="_blank" rel="noopener noreferrer">📄теория про lambda в python </a><br></td>
+  <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1beQr-xefHC3datIrzsyKi4MTXILvLyDT/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 >Аргументы функций и lambda-функции (про итераторы и генераторы можно не читать)</a><br><a href="https://vk.com/away.php?to=https%3A%2F%2Freplit.com%2Fjoin%2Fsivinwufyq-mikhailpolinov&cc_key=" target="_blank" rel="noopener noreferrer">💻 >практика с пары</a><br></td>
+  <td class="tg-c3ow">🎓 будет тест - необходимо просмотреть предыдущие материалы</td>
+    <td class="tg-c3ow"></td>
 </tbody>
 </table>
