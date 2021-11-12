@@ -58,7 +58,7 @@ title: 1 семестр
    </tr>
 <tr>
   <td class="tg-0pky">13.11<br><br>Начало ООП</td>
-  <td class="tg-0pky"><a href="https://proglib.io/p/python-oop" target="_blank" rel="noopener noreferrer">📄 ООП в python </a><br><a 📄 так же читайте в Любановиче </a><br></td>
+  <td class="tg-0pky"><a href="https://proglib.io/p/python-oop" target="_blank" rel="noopener noreferrer">📄 ООП в python </a><br> 📄 так же читайте в Любановиче <br></td>
   <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1i0lur4ewiT6rDJKVCCMqbf-YBeJCBdzx/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 начало ООП; базовые понятия</a><br></td>
   <td class="tg-c3ow"> </td>
     <td class="tg-c3ow"></td> 
