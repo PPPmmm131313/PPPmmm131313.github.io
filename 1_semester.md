@@ -55,5 +55,12 @@ title: 1 семестр
   <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1hBjHfmVUZUuFZfpLmtIvYh5KBaWCYXdm/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 Приоритеты в операциях; про Args и Kwargs; Обработка исключений</a><br></td>
   <td class="tg-c3ow"> </td>
     <td class="tg-c3ow"></td> 
+   </tr>
+<tr>
+  <td class="tg-0pky">13.11<br><br>Начало ООП</td>
+  <td class="tg-0pky"><a href="https://proglib.io/p/python-oop" target="_blank" rel="noopener noreferrer">📄 ООП в python </a><br><a 📄 так же читайте в Любановиче </a><br></td>
+  <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1i0lur4ewiT6rDJKVCCMqbf-YBeJCBdzx/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 начало ООП; базовые понятия</a><br></td>
+  <td class="tg-c3ow"> </td>
+    <td class="tg-c3ow"></td> 
 </tbody>
 </table>
