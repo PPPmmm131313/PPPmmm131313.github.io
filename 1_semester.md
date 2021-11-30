@@ -19,9 +19,9 @@ title: 1 семестр
     <th class="tg-c3ow">Мат-лы<br>практики</th>
     <th class="tg-c3ow">Д/з</th>
     <th class="tg-c3ow">Дедлайн</th>
-<!--   </tr>
+  </tr>
 </thead>
-<tbody> -->
+<tbody>
   <tr>
     <td class="tg-0pky">17.09<br><br>Установка CPython, PyСharm,<br>настройка среды</td>
     <td class="tg-0pky"><a href="https://drive.google.com/file/d/1uJTuNXo1CBN-ujcjbW7DutYlJjxq96LM/view?usp=sharing" target="_blank" rel="noopener noreferrer">📄Установка Python</a><br><a href="https://drive.google.com/drive/folders/1Snhi7DKWnlCBJfayHC2s8TEx0fLSKDbu" target="_blank" rel="noopener noreferrer">📄Установка PyCharm и Anaconda</a><br><a href="https://drive.google.com/file/d/1RQVsCD3sRXn_UriPjHoh5Y0TSOzmD0kI/view?usp=sharing" target="_blank" rel="noopener noreferrer">🛑 Скринкаст по установке</a><br></td>
@@ -76,5 +76,6 @@ title: 1 семестр
   <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1g7AsarqXj_SJjYPa8Gj6MAIq_k9SsoIP/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 тетрадка с pandas</a><br></td>
   <td class="tg-c3ow"> просмотрите тетрадки с пар по numpy и pandas - для получения зачета (возможно) буду спрашивать что то базовое от туда</td>
     <td class="tg-c3ow"></td>
+  </tr>
 </tbody>
 </table>
