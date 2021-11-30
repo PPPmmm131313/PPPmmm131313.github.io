@@ -19,7 +19,7 @@ title: 1 семестр
     <th class="tg-c3ow">Мат-лы<br>практики</th>
     <th class="tg-c3ow">Д/з</th>
     <th class="tg-c3ow">Дедлайн</th>
-  </tr>
+<!--   </tr> -->
 </thead>
 <tbody>
   <tr>
