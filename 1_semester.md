@@ -19,9 +19,9 @@ title: 1 семестр
     <th class="tg-c3ow">Мат-лы<br>практики</th>
     <th class="tg-c3ow">Д/з</th>
     <th class="tg-c3ow">Дедлайн</th>
-  </tr>
+<!--   </tr>
 </thead>
-<tbody>
+<tbody> -->
   <tr>
     <td class="tg-0pky">17.09<br><br>Установка CPython, PyСharm,<br>настройка среды</td>
     <td class="tg-0pky"><a href="https://drive.google.com/file/d/1uJTuNXo1CBN-ujcjbW7DutYlJjxq96LM/view?usp=sharing" target="_blank" rel="noopener noreferrer">📄Установка Python</a><br><a href="https://drive.google.com/drive/folders/1Snhi7DKWnlCBJfayHC2s8TEx0fLSKDbu" target="_blank" rel="noopener noreferrer">📄Установка PyCharm и Anaconda</a><br><a href="https://drive.google.com/file/d/1RQVsCD3sRXn_UriPjHoh5Y0TSOzmD0kI/view?usp=sharing" target="_blank" rel="noopener noreferrer">🛑 Скринкаст по установке</a><br></td>
@@ -62,5 +62,19 @@ title: 1 семестр
   <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1i0lur4ewiT6rDJKVCCMqbf-YBeJCBdzx/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 начало ООП; базовые понятия</a><br></td>
   <td class="tg-c3ow"> </td>
     <td class="tg-c3ow"></td> 
+     </tr>
+<tr>
+  <td class="tg-0pky">20.11<br><br>NUMPY</td>
+  <td class="tg-0pky"><a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">📄 numpy </a><br> 📄 так же читайте в Любановиче <br></td>
+  <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1F-tD1yMFMTQDNiY7n81G0uTN2Z5J1fBl/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 тетрадка с numpy</a><br></td>
+  <td class="tg-c3ow"> </td>
+    <td class="tg-c3ow"></td>
+  </tr>
+<tr>
+  <td class="tg-0pky">29.11<br><br>PANDAS</td>
+  <td class="tg-0pky"><a href="https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html" target="_blank" rel="noopener noreferrer">📄 базово про pandas за 10 мин </a><br> 📄 так же гуглите в интеренете (хабр, medium и дргуие)<br></td>
+  <td class="tg-c3ow"><a href="https://drive.google.com/file/d/1g7AsarqXj_SJjYPa8Gj6MAIq_k9SsoIP/view?usp=sharing" target="_blank" rel="noopener noreferrer">💻 тетрадка с pandas</a><br></td>
+  <td class="tg-c3ow"> просмотрите тетрадки с пар по numpy и pandas - для получения зачета (возможно) буду спрашивать что то базовое от туда</td>
+    <td class="tg-c3ow"></td>
 </tbody>
 </table>
